@@ -63,5 +63,30 @@ The results provide actionable business intelligence for retail/festive e-commer
 
 ---
 
-## 📚 Repository Structure
+## Installation & Usage
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/AHMEDM0369/Python_Diwali_Sales_Analysis.git
+    cd Python_Diwali_Sales_Analysis
+    ```
+2. **Create a virtual environment (recommended):**
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    ```
+3. **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. **Run the Jupyter Notebook:**
+    ```bash
+    jupyter notebook Python_Diwali_Sales_Analysis.ipynb
+    ```
+
+## Contact
+-   Your Name - ahmedm
+-   Your Email - mrahmedm09@gmail.com
+
 
