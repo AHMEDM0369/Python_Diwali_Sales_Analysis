@@ -24,7 +24,7 @@ This command will download and install Jupyter Notebook using the `pip` package 
 2.  Type the following command and replace `AHMEDM0369` with your GitHub username:
 
 ```bash
-git clone https://github.com/AHMEDM0369/Python_Diwali_Sales_Analysis-python-project.git
+git clone https://github.com/AHMEDM0369/Python_Diwali_Sales_Analysis.git
 ```
 
 This command will clone the project repository from GitHub to your local machine.
