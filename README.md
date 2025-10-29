@@ -84,9 +84,9 @@ To run this project locally, follow these steps:
     ```bash
     jupyter notebook Python_Diwali_Sales_Analysis.ipynb
     ```
-
+    
 ## Contact
--   Your Name - ahmedm
--   Your Email - mrahmedm09@gmail.com
+-   Name - ahmedm
+-   Email - mrahmedm09@gmail.com
 
 
