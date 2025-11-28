@@ -1,7 +1,6 @@
-# 🛍️ Diwali Sales Analysis – Python & Pandas Project
+# Sales Exploratory Data Analysis
 
-Welcome to the **Diwali Sales Analysis** project!  
-This repository showcases a complete data analysis workflow using real-world Indian e-commerce festival sales data, with all steps implemented in **Python**, leveraging **Pandas**, **NumPy**, **Seaborn**, and **Matplotlib**.
+Welcome to the **Sales Exploratory Data Analysis** project! This repository showcases a complete data analysis workflow using real-world Indian e-commerce festival sales data, with all steps implemented in **Python** leveraging **Pandas**, **NumPy**, **Seaborn**, and **Matplotlib**.
 
 ---
 
@@ -68,8 +67,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/AHMEDM0369/Python_Diwali_Sales_Analysis.git
-    cd Python_Diwali_Sales_Analysis
+    git clone https://github.com/AHMEDM0369/Sales-Exploratory-Data-Analysis.git
+    cd Sales-Exploratory-Data-Analysis
     ```
 2. **Create a virtual environment (recommended):**
     ```bash
