@@ -16,6 +16,16 @@ The results provide actionable business intelligence for retail/festive e-commer
 
 ---
 
+## 🛠️ Technical Stack
+
+### Programming & Data Analysis
+- **Python 3.9+**: Core programming language
+- **Pandas**: Data manipulation, aggregation, and feature engineering
+- **NumPy**: Numerical computations and array operations
+- **Matplotlib**: Static visualization and publication-quality graphics
+- **Seaborn**: Statistical visualization and aesthetic enhancements
+---
+
 ## 🎯 Key Achievements
 
 ### Data Processing & Quality Assurance
@@ -44,6 +54,44 @@ The results provide actionable business intelligence for retail/festive e-commer
 - **Order Distribution**: Bimodal pattern with peaks at ₹7,000-9,000 and ₹15,000-17,000
 - **Marital Status**: Married customers show **4% higher average spending** (₹9,521 vs ₹9,387)
 - **Age Factor**: Sweet spot for spending is **36-45 age group** with average order value of ₹10,200+
+
+---
+
+## 🗂️ Dataset
+
+- **Source:** Sampled e-commerce sales records from a Diwali festival campaign  
+- **File:** `Diwali Sales Data.csv` (included in this repo)
+- **Key Fields:**
+    - `User_ID`, `Cust_name`: Customer identification
+    - `Product_ID`, `Product_Category`: Product details
+    - `Gender`, `Age`, `Age Group`, `Marital_Status`, `Occupation`
+    - `State`, `Zone`: Regional/demographic info
+    - `Orders`: Quantity ordered
+    - `Amount`: Transaction value
+
+---
+
+## 📈 Analysis Workflow
+
+1. **Data Loading**
+    - Import data using Pandas
+    - Initial inspection and sanity checks
+
+2. **Data Cleaning**
+    - Remove unnecessary columns
+    - Handle missing/null values
+    - Correct data types
+
+3. **Exploratory Data Analysis (EDA)**
+    - **Univariate Analysis:** Age, gender distribution, order amounts
+    - **Categorical Analysis:** Product categories, states, occupations
+    - **Grouped Insights:** Avg. purchase by gender, age group, occupation, region
+    - **Bivariate Analysis:** Correlation heatmaps, order patterns
+    - **Top N Analysis:** Top customers, products, cities
+
+4. **Visualization**
+    - Bar charts, histograms, count plots, pie charts
+    - Correlation matrix heatmaps for numerical features
 
 ---
 
@@ -151,30 +199,6 @@ The results provide actionable business intelligence for retail/festive e-commer
 
 ---
 
-## 🗂️ Dataset
-
-- **Source:** Sampled e-commerce sales records from a Diwali festival campaign  
-- **File:** `Diwali Sales Data.csv` (included in this repo)
-- **Key Fields:**
-    - `User_ID`, `Cust_name`: Customer identification
-    - `Product_ID`, `Product_Category`: Product details
-    - `Gender`, `Age`, `Age Group`, `Marital_Status`, `Occupation`
-    - `State`, `Zone`: Regional/demographic info
-    - `Orders`: Quantity ordered
-    - `Amount`: Transaction value
-
----
-
-
-## 🛠️ Technical Stack
-
-### Programming & Data Analysis
-- **Python 3.9+**: Core programming language
-- **Pandas**: Data manipulation, aggregation, and feature engineering
-- **NumPy**: Numerical computations and array operations
-- **Matplotlib**: Static visualization and publication-quality graphics
-- **Seaborn**: Statistical visualization and aesthetic enhancements
-
 ### Methodologies Applied
 - **Exploratory Data Analysis (EDA)**: Univariate, bivariate, and multivariate analysis
 - **Data Cleaning**: Missing value handling, type conversion, outlier detection
@@ -186,29 +210,7 @@ The results provide actionable business intelligence for retail/festive e-commer
 ---
 
 
-## 📈 Analysis Workflow
 
-1. **Data Loading**
-    - Import data using Pandas
-    - Initial inspection and sanity checks
-
-2. **Data Cleaning**
-    - Remove unnecessary columns
-    - Handle missing/null values
-    - Correct data types
-
-3. **Exploratory Data Analysis (EDA)**
-    - **Univariate Analysis:** Age, gender distribution, order amounts
-    - **Categorical Analysis:** Product categories, states, occupations
-    - **Grouped Insights:** Avg. purchase by gender, age group, occupation, region
-    - **Bivariate Analysis:** Correlation heatmaps, order patterns
-    - **Top N Analysis:** Top customers, products, cities
-
-4. **Visualization**
-    - Bar charts, histograms, count plots, pie charts
-    - Correlation matrix heatmaps for numerical features
-
----
 ## 📁 Repository Structure
 
 ```
@@ -253,7 +255,8 @@ To run this project locally, follow these steps:
     ```bash
     jupyter notebook Python_Diwali_Sales_Analysis.ipynb
     ```
-    
+---
+
 ## Contact
 -   Name - ahmedm
 -   Email - mrahmedm09@gmail.com
