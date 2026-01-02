@@ -50,7 +50,7 @@ The results provide actionable business intelligence for retail/festive e-commer
 ## 📊 Visualizations & Analysis
 
 ### 1. **Orders by Product Category**
-![Orders by Product Category](insights/Orders-by-Product-Category.png)
+![Orders by Product Category](insights/Orders_by_Product_Category.png)
 
 **Key Insights:**
 - **Apparel** dominates with **2,629 orders** (23% of total)
@@ -62,7 +62,7 @@ The results provide actionable business intelligence for retail/festive e-commer
 ---
 
 ### 2. **Top 10 Occupations**
-![Top 10 Occupations](insights/Top-10-Occupations.png)
+![Top 10 Occupations](insights/Top_10_Occupations.png)
 
 **Key Insights:**
 - **IT Sector** leads with **1,600+ orders**, representing highest professional concentration
@@ -74,7 +74,7 @@ The results provide actionable business intelligence for retail/festive e-commer
 ---
 
 ### 3. **Average Order Amount by Gender**
-![Average Order Amount by Gender](insights/Average-Order-Amount-by-Gender.png)
+![Average Order Amount by Gender](insights/Average_Order_Amount_by_Gender.png)
 
 **Key Insights:**
 - **Female customers**: Average order value **₹9,542** with tight confidence interval
@@ -86,7 +86,7 @@ The results provide actionable business intelligence for retail/festive e-commer
 ---
 
 ### 4. **Orders by Age Group and Gender**
-![Orders by Age Group and Gender](insights/Orders-by-Age-Group-and-Gender.png)
+![Orders by Age Group and Gender](insights/Orders_by_Age_Group_and_Gender.png)
 
 **Key Insights:**
 - **26-35 Female segment**: Dominates with **3,200+ orders**, representing 28% of total
@@ -98,7 +98,7 @@ The results provide actionable business intelligence for retail/festive e-commer
 ---
 
 ### 5. **Gender Distribution**
-![Gender Distribution](insights/Gender-Distribution.png)
+![Gender Distribution](insights/Gender_Distribution.png)
 
 **Key Insights:**
 - **Female customers**: **7,839 orders (69%)** of total customer base
@@ -113,7 +113,7 @@ The results provide actionable business intelligence for retail/festive e-commer
 ---
 
 ### 6. **Top 10 States by Order Count**
-![Top 10 States by Order Count](insights/Top-10-States-by-Order-Count.png)
+![Top 10 States by Order Count](insights/Top_10_States_by_Order_Count.png)
 
 **Key Insights:**
 - **Uttar Pradesh**: Leads with **1,950 orders** (17% of total), massive market opportunity
@@ -126,7 +126,7 @@ The results provide actionable business intelligence for retail/festive e-commer
 ---
 
 ### 7. **Order Amount Distribution**
-![Order Amount Distribution](insights/Order-Amount-Distribution.png)
+![Order Amount Distribution](insights/Order_Amount_Distribution.png)
 
 **Key Insights:**
 - **Bimodal Distribution**: Two distinct customer segments visible
@@ -139,7 +139,7 @@ The results provide actionable business intelligence for retail/festive e-commer
 ---
 
 ### 8. **Age Distribution of Customers**
-![Age Distribution of Customers](insights/Age-Distribution-of-Customers.png)
+![Age Distribution of Customers](insights/Age_Distribution_of_Customers.png)
 
 **Key Insights:**
 - **Distribution Shape**: Approximately normal distribution centered at age 33
